@@ -1,1 +1,1 @@
-# <p><a href="http://ftp.brianbartz.com">FAKYU</a></p>
+# <a href="http://ftp.brianbartz.com">FAKYU</a>
